@@ -7,7 +7,8 @@ public class ProjetoTeste {
 	System.out.println("=================== SISTEMA DE LOGIN ==========");
 	@SuppressWarnings("resource")
 	Scanner sc = new Scanner(System.in);
-	
+	//teste de atualização//
+
 	String login,senha;
 	
 	System.out.print("Digite o seu Login: ");
